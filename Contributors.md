@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Pranav Sharma](https://github.com/psx95)
 - [Daniel Florea] (https://github.com/dfloreaa)
 - [Rahul Kashyap](https://github.com/rahulkashyap-rk/)
